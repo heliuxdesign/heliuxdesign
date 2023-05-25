@@ -7,7 +7,7 @@ I have extensive experience as an intensive care nurse, having worked in this fi
 
 At the moment I am working as a head of a regional project DIPS Arena Pleieplan, and my project conserns the hospitals in the whole Helse Nord region.
 I also collaborate with other regions in Norway.
-The project involves designing and implementing a new journal system care plan, which replaces the current morning, evening and nigh shift documents and treatment plans.
+The project involves designing and implementing a new journal system care plan, which replaces the current morning, evening and nigh shift documents, and treatment plans.
 
 Education:
 
