@@ -16,7 +16,6 @@ Education:
 2023 Front-End Developer, Noroff
 
 
-Passion for Nursing Informatics:
 The intersection of information technology and nursing is an area close to my heart. I firmly believe that leveraging technology can revolutionize healthcare delivery, enhance patient safety, and improve overall efficiency. My background in front-end development and nursing enables me to contribute valuable insights into the design and implementation of technology solutions that address the unique needs of healthcare settings.
 
 
