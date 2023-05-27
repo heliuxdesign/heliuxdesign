@@ -7,7 +7,7 @@
 <h3 align="center">The intersection of information technology and nursing is an area close to my heart. I firmly believe that leveraging technology can revolutionize healthcare delivery, enhance patient safety, and improve overall efficiency. My background in front-end development and nursing enables me to contribute valuable insights into the design and implementation of technology solutions that address the unique needs of healthcare settings.</h3>
 <h3 align="center"></h3>
 
-<h3 align="left">Connect with me via LinkedIn: https://www.linkedin.com/in/heli-j%C3%A4rvel%C3%A4inen-714ba818b/ </h3>
+<h3 align="left">Connect with me via <a  href="https://www.linkedin.com/in/heli-j%C3%A4rvel%C3%A4inen-714ba818b/">LinkedIn</a> </h3>
 <p align="left">
 </p>
 
