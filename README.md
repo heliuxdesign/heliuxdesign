@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Heli Järveläinen</h1>
 <h3 align="center">I am an Intensive Care Nurse and a Front-End Developer from Finland, currently living in Tromsø, Norway.</h3>
-<h3 align="center">At the moment I am working as the head of a regional project DIPS Arena Pleieplan, and my project conserns the hospitals in the whole Helse Nord region. The project also requires collaboration with other regions in Norway. The project involves designing, testing and implementing a new journal system care plan, which replaces the current morning, evening and nigh shift documents, and treatment plans.</h3>
+<h3 align="center">At the moment I am working as the head of a regional project DIPS Arena Pleieplan, and my project concerns the hospitals in the whole Helse Nord region. The project also requires collaboration with other regions in Norway. The project involves designing, testing and implementing a new journal system care plan, which replaces the current morning, evening and nigh shift documents, and treatment plans.</h3>
 <h3 align="center"> I studied to become a frontend developer alongside my job. It took a lot of tears, but I did it!
 
 <h3 align="center">The intersection of information technology and nursing is an area close to my heart. I firmly believe that leveraging technology can revolutionize healthcare delivery, enhance patient safety, and improve overall efficiency. My background in front-end development and nursing enables me to contribute valuable insights into the design and implementation of technology solutions that address the unique needs of healthcare settings.</h3>
